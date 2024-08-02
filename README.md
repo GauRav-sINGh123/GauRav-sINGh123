@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **gksingh947@gmail.com**
 
-- Portfolio : https://portfolio-gaurav-singhs-projects-a9a982fb.vercel.app/
+- Portfolio : [https://portfolio-gaurav-singhs-projects-a9a982fb.vercel.app/](https://portfolio-gaurav-singhs-projects-a9a982fb.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
