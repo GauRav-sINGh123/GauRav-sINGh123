@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NodeJs**
 
-- 👨‍💻 All of my projects are available at https://gauravsingh-rosy.vercel.app/
+- 👨‍💻 All of my projects are available at https://gaurav-portolio.vercel.app/
 
 - 📫 How to reach me **gksingh947@gmail.com**
 
