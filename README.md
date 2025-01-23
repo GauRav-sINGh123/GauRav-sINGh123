@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurav-singh123&label=Profile%20views&color=0e75b6&style=flat" alt="gaurav-singh123" /> </p>
 
-- 🌱 I’m currently learning **NodeJs**
-
 - 👨‍💻 All of my projects are available at https://gaurav-portolio.vercel.app/
 
 - 📫 How to reach me **gksingh947@gmail.com**
