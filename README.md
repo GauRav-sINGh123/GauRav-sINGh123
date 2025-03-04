@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gaurav Singh</h1>
-<h3 align="center">A web developer from India</h3>
+<h3 align="center">A web developer from Bharat</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurav-singh123&label=Profile%20views&color=0e75b6&style=flat" alt="gaurav-singh123" /> </p>
 
